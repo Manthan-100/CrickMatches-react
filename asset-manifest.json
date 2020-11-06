@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/CrickMatches-react/static/css/main.5fca69fd.chunk.css",
+    "main.css": "/CrickMatches-react/static/css/main.7e1d96eb.chunk.css",
     "main.js": "/CrickMatches-react/static/js/main.066ea91a.chunk.js",
     "main.js.map": "/CrickMatches-react/static/js/main.066ea91a.chunk.js.map",
     "runtime-main.js": "/CrickMatches-react/static/js/runtime-main.cb196069.js",
@@ -10,14 +10,14 @@
     "static/js/2.ad8834ef.chunk.js.map": "/CrickMatches-react/static/js/2.ad8834ef.chunk.js.map",
     "index.html": "/CrickMatches-react/index.html",
     "static/css/2.20aa2d7b.chunk.css.map": "/CrickMatches-react/static/css/2.20aa2d7b.chunk.css.map",
-    "static/css/main.5fca69fd.chunk.css.map": "/CrickMatches-react/static/css/main.5fca69fd.chunk.css.map",
+    "static/css/main.7e1d96eb.chunk.css.map": "/CrickMatches-react/static/css/main.7e1d96eb.chunk.css.map",
     "static/js/2.ad8834ef.chunk.js.LICENSE.txt": "/CrickMatches-react/static/js/2.ad8834ef.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.cb196069.js",
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.ad8834ef.chunk.js",
-    "static/css/main.5fca69fd.chunk.css",
+    "static/css/main.7e1d96eb.chunk.css",
     "static/js/main.066ea91a.chunk.js"
   ]
 }
